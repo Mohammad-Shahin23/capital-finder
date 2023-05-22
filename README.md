@@ -1,9 +1,9 @@
 # capital-finder
 
 ## to find the capetal of a country 
-https://capital-finder-fawn.vercel.app/api/country?coutry=Jordan
+https://capital-finder-fawn.vercel.app/api/capital-finder?coutry=Jordan
 the result is amman
 
 ## to find the capetal of a country 
-https://capital-finder-fawn.vercel.app/api/country?capital=amman
+https://capital-finder-fawn.vercel.app/api/capital-finder?capital=amman
 the result is jordan
